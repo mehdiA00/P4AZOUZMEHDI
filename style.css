@@ -361,12 +361,21 @@ a:hover {
     position: relative;
     z-index: 2;
 }
+.deco{
+    text-decoration: none;
+    margin-left: 15px;
+    }
+    ul
+    {
+        list-style: none;
+    }
+
 
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
-        top: 50%;
-        right: 20px;
+        top: 30%;
+        right: 20%;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }
