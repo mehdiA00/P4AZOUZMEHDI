@@ -374,7 +374,10 @@ a:hover {
         font-size: 18px
         ;
     }
-
+   .Anecdote
+{
+    font-size: 20PX;
+}
 
 @media (min-width: 768px) {
     .site-navigation {
