@@ -369,6 +369,11 @@ a:hover {
     {
         list-style: none;
     }
+ .text-center
+    {
+        font-size: 18px
+        ;
+    }
 
 
 @media (min-width: 768px) {
