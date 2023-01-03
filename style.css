@@ -461,9 +461,15 @@ nav .caret {
     margin-top: 10px;
     margin-bottom: 40px;
 }
-.icon-md{
-    padding-left: 40px;
-    }
+.fa-facebook{
+    margin-left:  20%;
+}
+.fa-instagram{
+    margin-left:  20%;
+}
+.fa-dribbble{
+    margin-left:  20%;
+}
   
 .btn {
     margin: 0 5px 5px 0;
@@ -795,7 +801,7 @@ h4 {
 }
 
 .tc-white {
-    color: #white!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
