@@ -461,7 +461,10 @@ nav .caret {
     margin-top: 10px;
     margin-bottom: 40px;
 }
-  
+  .fa{
+      color: #ffffff;
+}
+      
 .btn {
     margin: 0 5px 5px 0;
 }
